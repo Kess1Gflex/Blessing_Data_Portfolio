@@ -1,0 +1,9 @@
+[submodule "Social-Media-Marketing-Campaign-Analytics"]
+	path = Social-Media-Marketing-Campaign-Analytics
+	url = https://github.com/Kess1Gflex/Social-Media-Marketing-Campaign-Analytics
+[submodule "Ecommerce_Analysis"]
+	path = Ecommerce_Analysis
+	url = https://github.com/Kess1Gflex/Ecommerce_Analysis
+[submodule "healthcare-readmission-analysis"]
+	path = healthcare-readmission-analysis
+	url = https://github.com/Kess1Gflex/healthcare-readmission-analysis
