@@ -9,6 +9,7 @@ Data Analyst with hands-on experience using Excel, SQL, Power BI, and Python to 
 * Excel
 * SQL
 * Power BI
+* Tableau
 * Python
 * GitHub
 
@@ -42,7 +43,7 @@ Data Analyst with hands-on experience using Excel, SQL, Power BI, and Python to 
 
 | Project | Tools | Business Problem | Key Outcome |
 |----------|----------|----------|----------|
-| [Healthcare Readmission Analysis](https://github.com/Kess1Gflex/healthcare-readmission-analysis) | SQL, Power BI | Identify factors driving patient readmissions | Uncovered high-risk patient groups and major readmission drivers |
+| [Healthcare Readmission Analysis](https://github.com/Kess1Gflex/healthcare-readmission-analysis) | SQL, Tableau | Identify factors driving patient readmissions | Uncovered high-risk patient groups and major readmission drivers |
 | [Social Media Campaign Analytics](https://github.com/Kess1Gflex/Social-Media-Marketing-Campaign-Analytics) | Excel, SQL, Power BI | Measure campaign effectiveness and ROI | Identified the campaigns generating the highest returns on ad spend |
 | [E-Commerce Sales Analysis](https://github.com/Kess1Gflex/Ecommerce_Analysis) | SQL, Power BI | Analyze sales trends and customer purchasing behavior | Revealed top-performing products and revenue-driving categories |
 
