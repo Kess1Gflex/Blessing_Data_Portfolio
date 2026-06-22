@@ -4,8 +4,6 @@ Data Analyst with hands-on experience using Excel, SQL, Power BI, and Python to 
 
 ## Technical Skills
 
-## Technical Skills
-
 ### Tools
 
 * Excel
