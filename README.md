@@ -46,6 +46,7 @@ Data Analyst with hands-on experience using Excel, SQL, Power BI, and Python to 
 | [Healthcare Readmission Analysis](https://github.com/Kess1Gflex/healthcare-readmission-analysis) | SQL, Tableau | Identify factors driving patient readmissions | Uncovered high-risk patient groups and major readmission drivers |
 | [Social Media Campaign Analytics](https://github.com/Kess1Gflex/Social-Media-Marketing-Campaign-Analytics) | Excel, SQL, Power BI | Measure campaign effectiveness and ROI | Identified the campaigns generating the highest returns on ad spend |
 | [E-Commerce Sales Analysis](https://github.com/Kess1Gflex/Ecommerce_Analysis) | SQL, Power BI | Analyze sales trends and customer purchasing behavior | Revealed top-performing products and revenue-driving categories |
+| [Financial Statement Analysis](https://github.com/Kess1Gflex/Financial-Statement-Analysis) | Python, Pandas, Matplotlib | Analyze financial performance through profitability, branch, customer, vendor, and trend analysis | Identified company-wide profitability challenges driven by COGS exceeding revenue and provided strategic business recommendations |
 
 ## What You'll Find Here
 
